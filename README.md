@@ -3,12 +3,16 @@
 ## Logistics
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
-- Teaching assistants: Hang Zhu
+- Teaching assistant: Hang Zhu
+- Course assistants: Venkata Aditya Bollapragada, Mengying Hu, Zhiyuan Li, Antara Sargam, Siddharth Syal
 - Lecture time: Tuesday and Thursday, 12:00-1:15pm
-- Location: TBD
-- Office hours: Tuesday 1:15-2:30pm, Malone 233
+- Location: Shaffer 301
 - Credits: 3 credits
+- Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code TBD
+- Office hours
+  - Tuesday 1:15-2:30pm, Malone 233, Xin Jin
+  - Thursday 1:15-2:30pm, Malone 235, Hang Zhu
 
 ## Course Description
 
@@ -20,7 +24,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- TBD.
+- Monday, January 29: Join [piazza](https://piazza.com/class/jctgtugnywb4qc).
 
 ## Course Syllabus
 
