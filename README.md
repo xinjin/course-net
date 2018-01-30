@@ -11,8 +11,8 @@
 - Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code TBD
 - Office hours
-  - Tuesday 1:15-2:30pm, Malone 233, Xin Jin
-  - Thursday 1:15-2:30pm, Malone 235, Hang Zhu
+  - Tuesday 1:15pm-2:30pm, Malone 233, Xin Jin
+  - Thursday 11am-12pm, Malone 235, Hang Zhu
 
 ## Course Description
 
@@ -30,8 +30,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
-| Tue 01/30 | Course Overview | | |
-| Thu 02/01 | | | |
+| Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
+| Thu 02/01 | Overview | 1.1, 1.3 | |
 | Tue 02/06 | | | |
 | Thu 02/08 | | | |
 | Tue 02/13 | | | |
