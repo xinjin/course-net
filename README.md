@@ -9,7 +9,7 @@
 - Location: Shaffer 301
 - Credits: 3 credits
 - Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
-- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code TBD
+- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
 - Office hours
   - Tuesday 1:15-2:30pm, Malone 233, Xin Jin
   - Thursday 1:15-2:30pm, Malone 235, Hang Zhu
