@@ -207,8 +207,7 @@ You must submit:
 * Your measurement results and answers to the questions from Part 3: all results and a text file called `answers.txt` should be in a folder called `measurements`.
 * Your custom network topology code and its visualization (`<uniqname>_topology.py` and `<uniqname>_topology.png`).
 
-All of the files above must be present in Gradescope. When grading your assignment, we will **ONLY** look at commits before the deadline.
-
+All of the files above must be present as a single compressed file in Gradescope.
 ## Acknowledgements
 This programming assignment is based on Mosharaf Chowdhury's Assignment 1 from UMich EECS 489: Computer Networks.
 
