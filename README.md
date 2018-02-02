@@ -3,7 +3,7 @@
 ## Logistics
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
-- Teaching assistant: Hang Zhu
+- Teaching assistant: [Hang Zhu](http://www.cs.jhu.edu/~hzhu/)
 - Course assistants: Venkata Aditya Bollapragada, Mengying Hu, Zhiyuan Li, Antara Sargam, Siddharth Syal
 - Lecture time: Tuesday and Thursday, 12:00-1:15pm
 - Location: Shaffer 301
@@ -24,6 +24,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Friday, February 2: [Assignment 1](assignments/assignment1/assignment1.md) is out.
 - Monday, January 29: Join [piazza](https://piazza.com/class/jctgtugnywb4qc).
 
 ## Course Syllabus
@@ -31,7 +32,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
 | Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
-| Thu 02/01 | Overview | 1.1, 1.3 | |
+| Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3 | |
 | Tue 02/06 | | | |
 | Thu 02/08 | | | |
 | Tue 02/13 | | | |
@@ -65,7 +66,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- [Assignment 1](assignments/assignment1.md): TBD.
+- [Assignment 1](assignments/assignment1/assignment1.md): Network measurement.
 
 ## Policies
 
