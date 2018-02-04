@@ -12,7 +12,7 @@
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
 - Office hours
   - Tuesday 1:15pm-2:30pm, Malone 233, Xin Jin
-  - Thursday 11am-12pm, Malone 235, Hang Zhu
+  - Friday 2pm-3pm, Malone 235, Hang Zhu
 
 ## Course Description
 
