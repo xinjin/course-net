@@ -33,7 +33,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | :------ | :------ | :------  | :------ |
 | Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
 | Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3 | |
-| Tue 02/06 | | | |
+| Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.4, 1.5 | |
 | Thu 02/08 | | | |
 | Tue 02/13 | | | |
 | Thu 02/15 | | | |
