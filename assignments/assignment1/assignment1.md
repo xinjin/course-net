@@ -201,6 +201,8 @@ Finally, create a visualization of your custom topology (using circles to denote
 <a name="submission-instr"></a>
 ## Submission Instructions
 
+Due: 11:00pm on Feb. 15 
+
 You must submit:
 
 * The source code for `iPerfer`: all source files for `iPerfer` should be in a folder called `iPerfer`; the folder should include a `Makefile` to compile the sources.
