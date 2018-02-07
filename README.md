@@ -34,7 +34,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
 | Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3 | A1 Out |
 | Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.4, 1.5 | |
-| Thu 02/08 | | | |
+| Thu 02/08 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
 | Tue 02/13 | | | A2 Out |
 | Thu 02/15 | | | A1 Due |
 | Tue 02/20 | | | |
