@@ -201,7 +201,7 @@ Finally, create a visualization of your custom topology (using circles to denote
 <a name="submission-instr"></a>
 ## Submission Instructions
 
-Due: 11:00pm on Feb. 15 
+Due: 11:59pm Friday on Feb. 16 
 
 You must submit:
 
