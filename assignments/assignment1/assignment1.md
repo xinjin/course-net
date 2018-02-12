@@ -154,7 +154,7 @@ For the third part of the assignment you will use the tool you wrote (`iPerfer`)
 
 Read the `ping` man page to learn how to use it.
 
-A python script to run Mininet with the topology described below is provided [here](https://github.com/xinjin/course-net/tree/master/assignments/starter_code) along with other files that you will find useful in completing this assignment.
+A python script to run Mininet with the topology described below is provided [here](https://github.com/xinjin/course-net/tree/master/assignments/assignment1/starter_code) along with other files that you will find useful in completing this assignment.
 
 To run Mininet with the provided topology, run the Python script `assignment1_topology.py` using sudo:
 
