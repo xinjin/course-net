@@ -234,7 +234,7 @@ You zip file to be submitted to Gradescope must include the following:
 * `Makefile`(s) to compile `miProxy` and `nameserver`
 * The source code for `miProxy`: all source files for `miProxy` should be in a folder called `miProxy`
 * The source code for `nameserver`: all source files for `nameserver` should be in a folder called `nameserver`
-* A `README` file with the names and JHED ID of the group members. Also specify in this `README` if you choose late submission for this project.
+* A `README` file with the names and JHED IDs of the group members. Also specify in this `README` if you choose late submission for this project.
 
 ## Acknowledgements
 This programming assignment is based on Mosharaf Chowdhury's Assignment 1 from UMich EECS 489: Computer Networks.
