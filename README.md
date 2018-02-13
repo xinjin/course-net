@@ -24,7 +24,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- Friday, February 2: [Assignment 1](assignments/assignment1/assignment1.md) is out.
+- Tuesday, February 13: [Assignment 2](assignments/assignment2/README.md) is out.
+- Friday, February 2: [Assignment 1](assignments/assignment1/README.md) is out.
 - Monday, January 29: Join [piazza](https://piazza.com/class/jctgtugnywb4qc).
 
 ## Course Syllabus
@@ -66,7 +67,8 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- [Assignment 1](assignments/assignment1/assignment1.md): Network measurement.
+- [Assignment 1](assignments/assignment1/README.md): Network measurement.
+- [Assignment 2](assignments/assignment2/README.md): Network measurement.
 
 ## Policies
 
