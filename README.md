@@ -37,7 +37,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.4, 1.5 | |
 | Thu 02/08 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
 | Tue 02/13 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4, 2.6 | A2 Out |
-| Thu 02/15 | [Wireless](slides/lec06_wireless.pptx) | 7.1, 7.2, 7.3 | A1 Due |
+| Thu 02/15 | Wireless ([1](slides/lec06_wireless.pptx), [2](slides/lec06_wireless_cy.pptx)) | 7.1, 7.2, 7.3 | A1 Due |
 | Tue 02/20 | | | |
 | Thu 02/22 | | | |
 | Tue 02/27 | | | |
