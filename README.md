@@ -38,9 +38,9 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Thu 02/08 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
 | Tue 02/13 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4, 2.6 | A2 Out |
 | Thu 02/15 | Wireless ([1](slides/lec06_wireless.pptx), [2](slides/lec06_wireless_cy.pptx)) | 7.1, 7.2, 7.3 | A1 Due |
-| Tue 02/20 | | | |
-| Thu 02/22 | | | |
-| Tue 02/27 | | | |
+| Tue 02/20 | [Video Streaming and Cloud Applications](slides/lec07_video_cloud.pptx) | | |
+| Thu 02/22 | [Transport Layer](slides/lec08_transport.pptx) | | |
+| Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | | |
 | Thu 03/01 | | | |
 | Tue 03/06 | | | |
 | Thu 03/08 | | | |
