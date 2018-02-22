@@ -124,7 +124,7 @@ To operate `miProxy`, it should be invoked as follows:
 * `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
 * `dns-ip` IP address of the DNS server.
 * `dns-port` Port number DNS server listens on.
-* `www-ip` Your proxy should accept an optional argument specifying the IP address of the web server from which it should request video chunks. If this argument is not present, your proxy should obtain the web server's IP address by querying your DNS server for the name `video.cse.umich.edu`.
+* `www-ip` Your proxy should accept an optional argument specifying the IP address of the web server from which it should request video chunks. If this argument is not present, your proxy should obtain the web server's IP address by querying your DNS server for the name `video.cs.jhu.edu`.
 
 ###Logging
 `miProxy` must create a log of its activity in a very particular format. After each request, it should append the following line to the log:
@@ -172,9 +172,9 @@ You will write a simple DNS server that implements load balancing in two differe
 * `TTL` Set this to 0 in all responses (no caching).
 
 ### Round-Robin Load Balancer
-One of the ways you will implement `nameserver` is as a simple round-robin based DNS load balancer. It should take as input a list of video server IP addresses on the command line; it responds to each request to resolve the name `video.cse.umich.edu` by returning the next IP address in the list, cycling back to the beginning when the list is exhausted.
+One of the ways you will implement `nameserver` is as a simple round-robin based DNS load balancer. It should take as input a list of video server IP addresses on the command line; it responds to each request to resolve the name `video.cs.jhu.edu` by returning the next IP address in the list, cycling back to the beginning when the list is exhausted.
 
-`nameserver` will bind to an IP address and port specified as command line arguments. It responds *only* to requests for `video.cse.umich.edu`; any other requests should generate a response with `RCODE` 3.
+`nameserver` will bind to an IP address and port specified as command line arguments. It responds *only* to requests for `video.cs.jhu.edu`; any other requests should generate a response with `RCODE` 3.
 
 ### Geographic Distance Load Balancer
 Next you’ll make your DNS server somewhat more sophisticated. Your load balancer must return the closest video server to the client based on the proxy’s IP address. In the real world, this would be done by querying a database mapping IP prefixes to geographic locations. For your implementation, however, you will be given information in a text file about the entire state of the network, and your server will have to return to a given client its closest geographic server.
