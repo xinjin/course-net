@@ -33,14 +33,14 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
 | Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
-| Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3 | A1 Out |
-| Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.4, 1.5 | |
+| Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3, 1.4 | A1 Out |
+| Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.5 | |
 | Thu 02/08 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
-| Tue 02/13 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4, 2.6 | A2 Out |
+| Tue 02/13 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | A2 Out |
 | Thu 02/15 | Wireless ([1](slides/lec06_wireless.pptx), [2](slides/lec06_wireless_cy.pptx)) | 7.1, 7.2, 7.3 | A1 Due |
-| Tue 02/20 | [Video Streaming and Cloud Applications](slides/lec07_video_cloud.pptx) | | |
-| Thu 02/22 | [Transport Layer](slides/lec08_transport.pptx) | | |
-| Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | | |
+| Tue 02/20 | [Video Streaming and Cloud Applications](slides/lec07_video_cloud.pptx) | 2.6 | |
+| Thu 02/22 | [Transport Layer](slides/lec08_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
+| Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | 3.5 | |
 | Thu 03/01 | | | |
 | Tue 03/06 | | | |
 | Thu 03/08 | | | |
@@ -68,7 +68,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 ## Programming Assignments
 
 - [Assignment 1](assignments/assignment1/README.md): Network measurement.
-- [Assignment 2](assignments/assignment2/README.md): Network measurement.
+- [Assignment 2](assignments/assignment2/README.md): Video Streaming via CDN.
 
 ## Policies
 
