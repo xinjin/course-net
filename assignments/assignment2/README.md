@@ -143,8 +143,9 @@ To play a video through your proxy, you can simply launch a local instance of th
 
 You zip file to be submitted to Gradescope must include the following:
 
-* `Makefile`(s) to compile `miProxy` and `nameserver`
+* `Makefile`(s) to compile `miProxy` 
 * The source code for `miProxy`: all source files for `miProxy` should be in a folder called `miProxy`
+* If you use some thrid-party libraries, include them in a folder `lib` and explain how to install them in a `README` file
 
 ## Acknowledgements
 This programming assignment is based on Mosharaf Chowdhury's Assignment 2 from UMich EECS 489: Computer Networks.
