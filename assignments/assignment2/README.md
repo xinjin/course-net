@@ -20,7 +20,7 @@ Implementing an entire CDN is difficult; instead, you'll focus on a simplified v
 
 <img src="our-CDN.png" title="Video CDN in assignment 2" alt="" width="330" height="111"/>
 
-You'll write the gray-shaded components in the figure above.
+You'll write the Proxy in the figure above for this assignment.
 
 **Browser.** You'll use an off-the-shelf web browser (Firefox) to play videos served by your CDN (via your proxy).
 
@@ -28,19 +28,17 @@ You'll write the gray-shaded components in the figure above.
 
 **Web Server.** Video content will be served from an off-the-shelf web server (Apache). As with the proxy, you will run multiple instances of Apache on different IP addresses to simulate a CDN with several content servers.
 
-**DNS Server.** You will implement a simple DNS that supports only a small portion of actual DNS's functionality. Your server will respond to each request with the “best” server for that particular client.
 
 To summarize, this assignment has the following components:
 
 * [Part 1](#part1): Bitrate Adaptation in HTTP Proxy
-* [Part 2](#part2): DNS Load Balancing
 * [Submission Instructions](#submission-instr)
 
 ## Learning Outcomes
 
 After completing this programming assignment, students should be able to:
 
-* Explain how HTTP proxies, DNS servers, and video CDNs work
+* Explain how HTTP proxies and video CDNs work
 * Create topologies and change network characteristics in Mininet to test networked systems
 
 ## Clarifications
@@ -75,9 +73,9 @@ Here `<profile_num>` is a required command line argument that specifies the inst
 
 Many video players monitor how quickly they receive data from the server and use this throughput value to request better or lower quality encodings of the video, aiming to stream the highest quality encoding that the connection can handle. Instead of modifying an existing video client to perform bitrate adaptation, you will implement this functionality in an HTTP proxy through which your browser will direct requests.
 
-You are to implement a simple HTTP proxy, `miProxy`. It accepts connections from web browsers, modifies video chunk requests as described below, resolves the web server's DNS name, opens a connection with the resulting IP address, and forwards the modified request to the server. Any data (the video chunks) returned by the server should be forwarded, *unmodified*, to the browser.
+You are to implement a simple HTTP proxy, `miProxy`. It accepts connections from web browsers, modifies video chunk requests as described below, opens a connection with the content server, and forwards the modified request to the server. Any data (the video chunks) returned by the server should be forwarded, *unmodified*, to the browser.
 
-`miProxy` should listen for browser connections on `INADDR_ANY` on the port specified on the command line. It should then connect to web servers either specified on the command line (see below) or issue a DNS query to find out the IP address of the server to contact (this is covered in part 2).
+`miProxy` should listen for browser connections on `INADDR_ANY` on the port specified on the command line. It should then connect to web servers specified on the command line (see below).
 
 <img src="proxy-overview.png" title="Video CDN in the wild" alt="" width="534" height="171"/>
 
@@ -117,14 +115,12 @@ To switch to a higher bitrate, e.g., 1000 Kbps, the proxy should modify the URI 
 ### Running `miProxy`
 To operate `miProxy`, it should be invoked as follows:
 
-`./miProxy <log> <alpha> <listen-port> <dns-ip> <dns-port> [<www-ip>]`
+`./miProxy <log> <alpha> <listen-port> <www-ip>`
 
 * `log` The file path to which you should log the messages as described below.
 * `alpha` A float in the range [0, 1]. Uses this as the coefficient in your EWMA throughput estimate.
 * `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
-* `dns-ip` IP address of the DNS server.
-* `dns-port` Port number DNS server listens on.
-* `www-ip` Your proxy should accept an optional argument specifying the IP address of the web server from which it should request video chunks. If this argument is not present, your proxy should obtain the web server's IP address by querying your DNS server for the name `video.cs.jhu.edu`.
+* `www-ip` Your proxy should accept an argument specifying the IP address of the web server from which it should request video chunks.
 
 ###Logging
 `miProxy` must create a log of its activity in a very particular format. After each request, it should append the following line to the log:
@@ -142,90 +138,6 @@ To operate `miProxy`, it should be invoked as follows:
 To play a video through your proxy, you can simply launch a local instance of the Apache server, launch Firefox (see above), and point the browser on your VM to the URL `http://localhost:<listen-port>/index.html`.
 
 
-<a name="part2"></a>
-## Part 2: DNS Load Balancing
-
-To spread the load of serving videos among a group of servers, most CDNs perform some kind of load balancing. A common technique is to configure the CDN's authoritative DNS server to resolve a single domain name to one out of a set of IP addresses belonging to replicated content servers. The DNS server can use various strategies to spread the load, e.g., round-robin, shortest geographic distance, or current server load (which requires servers to periodically report their statuses to the DNS server).
-
-You will write a simple DNS server that implements load balancing in two different ways: round-robin and geographic distance. In order for you proxy to be able to query your DNS server, you must also write an accompanying DNS resolution library. The two pieces should communicate using the DNS classes we provide (`DNSHeader.h`, `DNSQuestion.h`, and `DNSRecord.h`). You can read more about what each of the fields in these classes represents [here](http://www.freesoft.org/CIE/RFC/1035/39.htm). To make your life easier:
-
-* `AA` Set this to 0 in requests, 1 in responses.
-
-* `RD` Set this to 0 in all messages.
-
-* `RA` Set this to 0 in all messages.
-
-* `Z` Set this to 0 in all messages.
-
-* `NSCOUNT` Set this to 0 in all messages.
-
-* `ARCOUNT` Set this to 0 in all messages.
-
-* `QTYPE` Set this to 1 in all requests (asking for an A record).
-
-* `QCLASS` Set this to 1 in all requests (asking for an IP address).
-
-* `TYPE` Set this to 1 in all responses (returning an A record).
-
-* `CLASS` Set this to 1 in all responses (returning an IP address).
-
-* `TTL` Set this to 0 in all responses (no caching).
-
-### Round-Robin Load Balancer
-One of the ways you will implement `nameserver` is as a simple round-robin based DNS load balancer. It should take as input a list of video server IP addresses on the command line; it responds to each request to resolve the name `video.cs.jhu.edu` by returning the next IP address in the list, cycling back to the beginning when the list is exhausted.
-
-`nameserver` responds *only* to requests for `video.cs.jhu.edu`; any other requests should generate a response with `RCODE` 3.
-
-### Geographic Distance Load Balancer
-Next you’ll make your DNS server somewhat more sophisticated. Your load balancer must return the closest video server to the client based on the proxy’s IP address. In the real world, this would be done by querying a database mapping IP prefixes to geographic locations. For your implementation, however, you will be given information in a text file about the entire state of the network, and your server will have to return to a given client its closest geographic server.
-
-The text file will be represented in the following way:
-```
-NUM_NODES: <number of hosts and switches in the network>
-<host_id> <CLIENT|SWITCH|SERVER> <IP address|NO_IP>
-(repeats NUM_NODES - 1 times)
-NUM_LINKS: <number of links in the network>
-<origin_id> <destination_id> <cost>
-(repeats NUM_LINKS - 1 times)
-```
-
-<img src="link-cost.PNG" title="Video CDN in the wild" alt="" width="400" height="155"/>
-
-As an example, the network shown above will have the following text file:
-```
-NUM_NODES: 6
-0 CLIENT 10.0.0.1
-1 CLIENT 10.0.0.2
-2 SWITCH NO_IP
-3 SWITCH NO_IP
-4 SERVER 10.0.0.3
-5 SERVER 10.0.0.4
-NUM_LINKS: 5
-0 2 1
-1 2 1
-2 3 1
-3 4 6
-3 5 1
-```
-
-To operate `nameserver`, it should be invoked as follows:
-
-`./nameserver <log> <port> <geography_based> <servers>`
-
-* `log` The file path to which you should log the messages as described below.
-* `port` The port on which your server should listen.
-* `geography_based` An integer that will either be 0 or 1. If it is 0, use the round-robin load balancing scheme, otherwise implement the distance based scheme.
-* `servers` A text file containing a list of IP addresses, one per line, belonging to content servers if geography_based is 0. Otherwise it will be a text file describing the network topology as explained above.
-
-####Logging
-Your DNS server must log its activity in a specific format. For each valid DNS query it services, it should append the following line to the log:
-
-`<client-ip> <query-name> <response-ip>`
-
-* `client-ip` The IP address of the client who sent the query.
-* `query-name` The hostname the client is trying to resolve.
-* `response-ip` The IP address you return in response.
-
 <a name="submission-instr"></a>
 ## Submission Instructions
 
@@ -233,7 +145,6 @@ You zip file to be submitted to Gradescope must include the following:
 
 * `Makefile`(s) to compile `miProxy` and `nameserver`
 * The source code for `miProxy`: all source files for `miProxy` should be in a folder called `miProxy`
-* The source code for `nameserver`: all source files for `nameserver` should be in a folder called `nameserver`
 
 ## Acknowledgements
-This programming assignment is based on Mosharaf Chowdhury's Assignment 1 from UMich EECS 489: Computer Networks.
+This programming assignment is based on Mosharaf Chowdhury's Assignment 2 from UMich EECS 489: Computer Networks.
