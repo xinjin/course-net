@@ -41,10 +41,10 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 02/20 | [Video Streaming and Cloud Applications](slides/lec07_video_cloud.pptx) | 2.6 | |
 | Thu 02/22 | [Transport Layer](slides/lec08_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
 | Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | 3.5 | |
-| Thu 03/01 | | | |
-| Tue 03/06 | | | |
-| Thu 03/08 | | | |
-| Tue 03/13 | | | |
+| Thu 03/01 | [Flow and Congestion Control](slides/lec10_flow_congestion.pptx) | 3.6 | |
+| Tue 03/06 | More Congestion Control | 3.7 | |
+| Thu 03/08 | Network Layer and IP | 4.1, 4.3 | |
+| Tue 03/13 | Midterm Review | | |
 | Thu 03/15 | Midterm Exam | | |
 | Tue 03/20 | Spring Break | | |
 | Thu 03/22 | Spring Break | | |
