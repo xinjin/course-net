@@ -11,7 +11,7 @@
 - Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
 - Office hours
-  - Tuesday 1:15pm-2:30pm, Malone 233, Xin Jin
+  - Tuesday & Thursday 1:15pm-2:30pm, Malone 233, Xin Jin
   - Friday 2pm-3pm, Malone 235, Hang Zhu
 
 ## Course Description
