@@ -79,7 +79,7 @@ You are to implement a simple HTTP proxy, `miProxy`. It accepts connections from
 
 <img src="proxy-overview.png" title="Video CDN in the wild" alt="" width="534" height="171"/>
 
-It only needs to handle one connection and be able to handle the required HTTP 1.1 requests for this assignment (e.g., HTTP `GET`). You should run multiple instances of your proxy and browsers on different hosts to simulate multiple clients.
+It should accept multiple concurrent connections using `select()` or multithread and be able to handle the required HTTP 1.1 requests for this assignment (e.g., HTTP `GET`). It only needs to handle tcp connections from only one firefox instance. You should run multiple instances of your proxy and browsers on different hosts to simulate multiple clients.
 *Note: A good resource to remind you of socket programming is [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/).*
 
 ### Throughput Calculation
