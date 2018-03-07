@@ -43,7 +43,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | 3.5 | |
 | Thu 03/01 | [Flow and Congestion Control](slides/lec10_flow_congestion.pptx) | 3.6 | |
 | Tue 03/06 | [More Congestion Control](slides/lec11_congestion.pptx) | 3.7 | |
-| Thu 03/08 | Network Layer and IP | 4.1, 4.3 | |
+| Thu 03/08 | [Network Layer and IP](slides/lec12_ip.pptx) | 4.1, 4.3 | |
 | Tue 03/13 | Midterm Review | | |
 | Thu 03/15 | Midterm Exam | | |
 | Tue 03/20 | Spring Break | | |
