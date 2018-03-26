@@ -48,18 +48,18 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Thu 03/15 | Midterm Exam | | |
 | Tue 03/20 | Spring Break | | |
 | Thu 03/22 | Spring Break | | |
-| Tue 03/27 | | | |
-| Thu 03/29 | | | |
-| Tue 04/03 | | | |
-| Thu 04/05 | | | |
-| Tue 04/10 | | | |
-| Thu 04/12 | | | |
-| Tue 04/17 | | | |
-| Thu 04/19 | | | |
-| Tue 04/24 | | | |
-| Thu 04/26 | | | |
-| Tue 05/01 | | | |
-| Thu 05/03 | | | |
+| Tue 03/27 | [IP Routers](slides/lec13_ip_router.pptx)| 4.2 | A3 Out |
+| Thu 03/29 | Routing Fundamentals | | |
+| Tue 04/03 | Routing Algorithms | | |
+| Thu 04/05 | IP Addressing and Inter-AS Routing | | |
+| Tue 04/10 | Midterm Recap | | A4 Out |
+| Thu 04/12 | A4 Walkthrough | | A3 Due |
+| Tue 04/17 | BGP | | |
+| Thu 04/19 | Link Layer | | |
+| Tue 04/24 | Switched LAN | | |
+| Thu 04/26 | SDN | | |
+| Tue 05/01 | Security | | |
+| Thu 05/03 | Final Review | | A4 Due |
 
 ## Textbook
 
