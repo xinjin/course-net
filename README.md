@@ -49,17 +49,19 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 03/20 | Spring Break | | |
 | Thu 03/22 | Spring Break | | |
 | Tue 03/27 | [IP Routers](slides/lec13_ip_router.pptx)| 4.2 | A3 Out |
-| Thu 03/29 | [Routing Fundamentals](slides/lec14_routing.pptx) | | |
-| Tue 04/03 | Routing Algorithms | | |
-| Thu 04/05 | IP Addressing and Inter-AS Routing | | |
+| Thu 03/29 | [Routing Fundamentals](slides/lec14_routing.pptx) | 5.1 | |
+| Tue 04/03 | [Routing Algorithms](slides/lec15_routing_algorithms.pptx) | 5.2, 5.3 | |
+| Thu 04/05 | IP Addressing and Inter-AS Routing | 4.3.3 | |
 | Tue 04/10 | Midterm Recap | | A4 Out |
 | Thu 04/12 | A4 Walkthrough | | A3 Due |
-| Tue 04/17 | BGP | | |
-| Thu 04/19 | Link Layer | | |
-| Tue 04/24 | Switched LAN | | |
-| Thu 04/26 | SDN | | |
-| Tue 05/01 | Security | | |
+| Tue 04/17 | BGP | 5.4 | |
+| Thu 04/19 | Link Layer | 6.1, 6.3| |
+| Tue 04/24 | Switched LAN | 6.4 | |
+| Thu 04/26 | SDN | 4.4, 5.5 | |
+| Tue 05/01 | Security | 8.1, 8.3, 8.6 | |
 | Thu 05/03 | Final Review | | A4 Due |
+| Tue 05/15 | Final Exam | | 9am-12pm, Shaffer 301 |
+
 
 ## Textbook
 
