@@ -33,6 +33,7 @@ You'll write the gray-shaded components in the figure above.
 To summarize, this assignment has the following components:
 
 * [Part 1](#part1): DNS Load Balancing
+* [Part 2](#part2): Bitrate Adaptation in HTTP Proxy
 * [Submission Instructions](#submission-instr)
 
 ## Learning Outcomes
@@ -149,6 +150,21 @@ Your DNS server must log its activity in a specific format. For each valid DNS q
 * `client-ip` The IP address of the client who sent the query.
 * `query-name` The hostname the client is trying to resolve.
 * `response-ip` The IP address you return in response.
+
+<a name="part2"></a>
+## Part 2: Bitrate Adaptation in HTTP Proxy
+
+### Running `miProxy`
+To operate `miProxy`, it should be invoked as follows:
+
+`./miProxy <log> <alpha> <listen-port> <dns-ip> <dns-port> [<www-ip>]`
+
+* `log` The file path to which you should log the messages as described below.
+* `alpha` A float in the range [0, 1]. Uses this as the coefficient in your EWMA throughput estimate.
+* `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
+* `dns-ip` IP address of the DNS server.
+* `dns-port` Port number DNS server listens on.
+* `www-ip` Your proxy should accept an optional argument specifying the IP address of the web server from which it should request video chunks. If this argument is not present, your proxy should obtain the web server's IP address by querying your DNS server for the name `video.cs.jhu.edu`.
 
 <a name="submission-instr"></a>
 ## Submission Instructions
