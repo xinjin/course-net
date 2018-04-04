@@ -173,6 +173,7 @@ You zip file to be submitted to Gradescope must include the following:
 
 * `Makefile`(s) to compile `nameserver`
 * The source code for `nameserver`: all source files for `nameserver` should be in a folder called `nameserver`
+* The source code for `miProxy`: all source files for `miProxy` should be in a folder called `miProxy`
 
 ## Acknowledgements
 This programming assignment is based on Mosharaf Chowdhury's Assignment 2 from UMich EECS 489: Computer Networks.
