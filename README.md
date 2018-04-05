@@ -51,7 +51,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 03/27 | [IP Routers](slides/lec13_ip_router.pptx)| 4.2 | A3 Out |
 | Thu 03/29 | [Routing Fundamentals](slides/lec14_routing.pptx) | 5.1 | |
 | Tue 04/03 | [Routing Algorithms](slides/lec15_routing_algorithms.pptx) | 5.2, 5.3 | |
-| Thu 04/05 | IP Addressing and Inter-AS Routing | 4.3.3 | |
+| Thu 04/05 | [IP Addressing and Inter-AS Routing](slides/lec16_interdomain.pptx) | 4.3.3 | |
 | Tue 04/10 | Midterm Recap | | A4 Out |
 | Thu 04/12 | A4 Walkthrough | | A3 Due |
 | Tue 04/17 | BGP | 5.4 | |
