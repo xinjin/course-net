@@ -1,6 +1,6 @@
 # Assignment 3: Video Streaming via CDN (part 2)
 
-### Due: TBD
+### Due: April 13th, 2018 at 11:59 PM
 
 ## Overview
 
