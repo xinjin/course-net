@@ -99,10 +99,10 @@ For later running `xterm` to open terminal on hosts, you probably need to instal
 
 ## Exercise 1: Source Routing
 
-Place yourself in the `assignment4_src` directory [here](https://github.com/xinjin/course-adv-net/tree/master/assignments/assignment2_src).
+Place yourself in the `assignment4_src` directory [here](https://github.com/xinjin/course-net/tree/master/assignments/assignment4/assignment4_src).
 
 **NOTE**: Please do 
-`git clone https://github.com/xinjin/course-adv-net.git`
+`git clone https://github.com/xinjin/course-net`
 to get a copy of the whole course repository then work in the assignment directory noted above, 
 or the script `run_demo.sh` would probably fail to source some files when you try running it.
 
@@ -115,10 +115,10 @@ and provided for you by topo.py.
 Your job is 
 1. implementing the parser and the ingress control flow in the provided 
 skeleton program:
-[../assignment2_src/p4src/source_routing.p4](https://github.com/xinjin/course-adv-net/blob/master/assignments/assignment2_src/p4src/source_routing.p4);
+[assignment4_src/p4src/source_routing.p4](https://github.com/xinjin/course-net/blob/master/assignments/assignment4/assignment4_src/p4src/source_routing.p4);
 2. filling the `commands.txt` file with necessary commands.
 
-(You probably need to modify the sourcing path in script `course-adv-net/assignments/env.sh` 
+(You probably need to modify the sourcing path in script `course-net/assignments/assignment4/env.sh` 
 to let it successfully find the directory it wants in your local environment.)
 
 
