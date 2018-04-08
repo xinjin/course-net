@@ -1,6 +1,8 @@
-# Assignment 2
+# Assignment 4
 
 In this assignment, you will use P4 and Mininet to design network features.
+
+### Due: May 4th, 2018 at 11:59 P.M.
 
 ## Outline
 
@@ -20,8 +22,8 @@ In this assignment, you will use P4 and Mininet to design network features.
 ## Deliverables
 
 Submit your source code for the two exercises, in two separate folders `exercise1` and `exercise2`, and together in one 
-`assignment2.zip` file. Please provide a `README.txt` file for each exercise in their corresponding folder descibing any 
-specific instructions needed to run your code. We will run your code exactly in the `assignment2_src` directory of this 
+`assignment4.zip` file. Please provide a `README.txt` file for each exercise in their corresponding folder descibing any 
+specific instructions needed to run your code. We will run your code exactly in the `assignment4_src` directory of this 
 course repository (as described in the **NOTE** in the exercise 1 part below) with only the files you provided adding to 
 the right place or replacing the original files there, so please make sure to submit **all** and **only** the code files 
 you generated or modified and make sure they work well in the right place. (You do not need to submit `env.sh` file even 
@@ -37,7 +39,7 @@ assign partial credit (meaning that you will not get more than half of the credi
 This assignment includes 2 exercises: *Source Routing*
 and *Key-Value Store*. Both exercises assume that you possess basic networking
 knowledge and some familiarity with the P4 language. Please take a look at the
-[P4 language spec](http://p4.org/spec/) and at the example `simple_router`
+[P4 language spec](https://p4.org/p4-spec/p4-14/v1.0.4/tex/p4.pdf) and at the example `simple_router`
 target [on
 p4lang](https://github.com/p4lang/p4factory/tree/master/targets/simple_router/p4src).
 *Source Routing* asks you to write a P4 program to implement a
@@ -97,7 +99,7 @@ For later running `xterm` to open terminal on hosts, you probably need to instal
 
 ## Exercise 1: Source Routing
 
-Place yourself in the `assignment2_src` directory [here](https://github.com/xinjin/course-adv-net/tree/master/assignments/assignment2_src).
+Place yourself in the `assignment4_src` directory [here](https://github.com/xinjin/course-adv-net/tree/master/assignments/assignment2_src).
 
 **NOTE**: Please do 
 `git clone https://github.com/xinjin/course-adv-net.git`
