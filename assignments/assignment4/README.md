@@ -18,7 +18,7 @@ In this assignment, you will use P4 and Mininet to design network features.
 - [Exercise 2: Key-Value Store](#exercise-2-key-value-store)
   - [What is key-value store](#what-is-key-value-store)
   - [What you need to do](#what-you-need-to-do)
-
+- [Bonus (5 points): Implement NetChain](#Bonus)
 ## Deliverables
 
 Submit your source code for the two exercises, in two separate folders `exercise1` and `exercise2`, and together in one 
@@ -33,6 +33,7 @@ You will get full points if your code could be run successfully and generate req
 be run or doesn't have the right performance, we will first deduct half of the total points then look at your code to 
 assign partial credit (meaning that you will not get more than half of the credit).
 
+You can try implementing NetChain for bonus. The maximal bonus can be 5 points. Submit your source code in a folder called `netchain` in the zip file.
 
 ## Introduction
 
@@ -237,7 +238,7 @@ being processed correctly.
 
 ### What is key-value store
 
-A key-value store is a storage service. Each item in the key-value store has a key, which is the name of the item, and a value, which is the actual content of the item. A key-value store provides two basic funcions: `get(key)` and `put(key, value)`. The function `get(key)` gets the value of the corresponding key from the key-value store. The function `put(key, value)` updates the value of the corresoponding in the key-value store.
+A key-value store is a storage service. Each item in the key-value store has a key, which is the name of the item, and a value, which is the actual content of the item. A key-value store provides two basic funcions: `get(key)` and `put(key, value)`. The function `get(key)` gets the value of the corresponding key from the key-value store. The function `put(key, value)` updates the value of the corresoponding key in the key-value store.
 
 ### What you need to do
 
@@ -274,3 +275,7 @@ message.
 2. You could open a second terminal on h1 and run an adjusted recieve.py to receive and display reply messages.
 3. You can assume the key and value are both integers, and use key as the array index to access register.
 
+##Bonus
+
+1. Read the [NetChain](https://www.cs.jhu.edu/~xinjin/files/NSDI18_NetChain.pdf) paper carefully.
+2. Implementing NetChain with p4 code. You will get bonus (up tp 5 points) based on your work on NetChain.
