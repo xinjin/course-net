@@ -275,7 +275,7 @@ message.
 2. You could open a second terminal on h1 and run an adjusted recieve.py to receive and display reply messages.
 3. You can assume the key and value are both integers, and use key as the array index to access register.
 
-##Bonus
+## Bonus (5 points): Implement NetChain
 
 1. Read the [NetChain](https://www.cs.jhu.edu/~xinjin/files/NSDI18_NetChain.pdf) paper carefully.
 2. Implementing NetChain with p4 code. You will get bonus (up tp 5 points) based on your work on NetChain.
