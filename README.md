@@ -24,6 +24,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Tuesday, April 10: [Assignment 4](assignments/assignment4/README.md) is out.
+- Tuesday, March 27: [Assignment 3](assignments/assignment3/README.md) is out.
 - Tuesday, February 13: [Assignment 2](assignments/assignment2/README.md) is out.
 - Friday, February 2: [Assignment 1](assignments/assignment1/README.md) is out.
 - Monday, January 29: Join [piazza](https://piazza.com/class/jctgtugnywb4qc).
@@ -54,7 +56,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Thu 04/05 | [IP Addressing and Inter-AS Routing](slides/lec16_interdomain.pptx) | 4.3.3 | |
 | Tue 04/10 | Midterm Recap | | A4 Out |
 | Thu 04/12 | A4 Walkthrough | | A3 Due |
-| Tue 04/17 | BGP | 5.4 | |
+| Tue 04/17 | [BGP](slides/lec17_bgp.pptx) | 5.4 | |
 | Thu 04/19 | Link Layer | 6.1, 6.3| |
 | Tue 04/24 | Switched LAN | 6.4 | |
 | Thu 04/26 | SDN | 4.4, 5.5 | |
@@ -71,6 +73,8 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 - [Assignment 1](assignments/assignment1/README.md): Network measurement.
 - [Assignment 2](assignments/assignment2/README.md): Video Streaming via CDN.
+- [Assignment 3](assignments/assignment3/README.md): DNS load balancing.
+- [Assignment 4](assignments/assignment4/README.md): Custom data plane with P4.
 
 ## Policies
 
