@@ -57,7 +57,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 04/10 | Midterm Recap | | A4 Out |
 | Thu 04/12 | A4 Walkthrough | | A3 Due |
 | Tue 04/17 | [BGP](slides/lec17_bgp.pptx) | 5.4 | |
-| Thu 04/19 | Link Layer | 6.1, 6.3| |
+| Thu 04/19 | [Link Layer](slides/lec18_link.pptx) | 6.1, 6.3| |
 | Tue 04/24 | Switched LAN | 6.4 | |
 | Thu 04/26 | SDN | 4.4, 5.5 | |
 | Tue 05/01 | Security | 8.1, 8.3, 8.6 | |
