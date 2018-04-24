@@ -49,6 +49,8 @@ custom source routing protocol. *Key-Value Store* asks you to write a P4 program
 
 ## Obtaining required software
 
+[We are providing a VM](http://www.cs.jhu.edu/~hzhu/proj4.ova) that has all the components you need to get started on the assignment. Or you can follow the instruction below to set up the environment manually.
+
 To complete the exercises, you will need to clone 2 p4lang Github repositories
 and install their dependencies. To clonde the repositories:
 
