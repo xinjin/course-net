@@ -59,7 +59,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 04/17 | [BGP](slides/lec17_bgp.pptx) | 5.4 | |
 | Thu 04/19 | [Link Layer](slides/lec18_link.pptx) | 6.1, 6.3| |
 | Tue 04/24 | [Switched LAN](slides/lec19_LAN.pptx) | 6.4 | |
-| Thu 04/26 | SDN | 4.4, 5.5 | |
+| Thu 04/26 | [SDN](slides/lec20_SDN.pptx) | 4.4, 5.5 | |
 | Tue 05/01 | Security | 8.1, 8.3, 8.6 | |
 | Thu 05/03 | Final Review | | A4 Due |
 | Tue 05/15 | Final Exam | | 9am-12pm, Shaffer 301 |
