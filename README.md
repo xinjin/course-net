@@ -61,7 +61,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Tue 04/24 | [Switched LAN](slides/lec19_LAN.pptx) | 6.4 | |
 | Thu 04/26 | [SDN](slides/lec20_SDN.pptx) | 4.4, 5.5 | |
 | Tue 05/01 | [Security](slides/lec21_security.pptx) | 8.1, 8.3, 8.6 | |
-| Thu 05/03 | Final Review | | A4 Due |
+| Thu 05/03 | [Final Review](slides/Final_review.pptx) | | A4 Due |
 | Tue 05/15 | Final Exam | | 9am-12pm, Shaffer 301 |
 
 
