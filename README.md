@@ -8,7 +8,7 @@
 - Lecture time: Monday and Wednesday, 3:00-4:15pm
 - Location: Shaffer 301
 - Credits: 3 credits
-- Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
+- Course discussion: [piazza](https://piazza.com/jhu/spring2019/en601414614)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
 - Office hours
   - Monday: 4:15-5:15pm, Malone 235
@@ -31,7 +31,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
-| Mon 01/28 | Introduction | | |
+| Mon 01/28 | [Introduction](slides/lec01_introduction.pptx) | | |
 | Wed 01/30 | Basic | 1.1, 1.3, 1.4 | |
 
 
