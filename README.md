@@ -3,16 +3,17 @@
 ## Logistics
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
-- Teaching assistant: [Hang Zhu](http://www.cs.jhu.edu/~hzhu/)
-- Course assistants: Venkata Aditya Bollapragada, Mengying Hu, Zhiyuan Li, Antara Sargam, Siddharth Syal
-- Lecture time: Tuesday and Thursday, 12:00-1:15pm
+- Teaching assistants: Zhihao Bai, Hang Zhu
+- Course assistants: TBD
+- Lecture time: Monday and Wednesday, 3:00-4:15pm
 - Location: Shaffer 301
 - Credits: 3 credits
 - Course discussion: [piazza](https://piazza.com/class/jctgtugnywb4qc)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
 - Office hours
-  - Tuesday & Thursday 1:15pm-2:30pm, Malone 233, Xin Jin
-  - Friday 2pm-3pm, Malone 235, Hang Zhu
+  - Monday: 4:15-5:15pm, Malone 235
+  - Wednesday: TBD, Malone 235
+  - Friday: TBD, Malone 235
 
 ## Course Description
 
@@ -24,45 +25,14 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- Tuesday, April 10: [Assignment 4](assignments/assignment4/README.md) is out.
-- Tuesday, March 27: [Assignment 3](assignments/assignment3/README.md) is out.
-- Tuesday, February 13: [Assignment 2](assignments/assignment2/README.md) is out.
-- Friday, February 2: [Assignment 1](assignments/assignment1/README.md) is out.
-- Monday, January 29: Join [piazza](https://piazza.com/class/jctgtugnywb4qc).
+- Monday, January 28: First day of class.
 
 ## Course Syllabus
 
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
-| Tue 01/30 | [Introduction](slides/lec01_introduction.pptx) | | |
-| Thu 02/01 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3, 1.4 | A1 Out |
-| Tue 02/06 | [Protocol Layering](slides/lec03_layering.pptx) | 1.5 | |
-| Thu 02/08 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
-| Tue 02/13 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | A2 Out |
-| Thu 02/15 | Wireless ([1](slides/lec06_wireless.pptx), [2](slides/lec06_wireless_cy.pptx)) | 7.1, 7.2, 7.3 | A1 Due |
-| Tue 02/20 | [Video Streaming and Cloud Applications](slides/lec07_video_cloud.pptx) | 2.6 | |
-| Thu 02/22 | [Transport Layer](slides/lec08_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
-| Tue 02/27 | [TCP Basics](slides/lec09_tcp.pptx) | 3.5 | |
-| Thu 03/01 | [Flow and Congestion Control](slides/lec10_flow_congestion.pptx) | 3.6 | |
-| Tue 03/06 | [More Congestion Control](slides/lec11_congestion.pptx) | 3.7 | |
-| Thu 03/08 | [Network Layer and IP](slides/lec12_ip.pptx) | 4.1, 4.3 | A2 Due |
-| Tue 03/13 | [Midterm Review](slides/Midterm_review.pptx) | | |
-| Thu 03/15 | Midterm Exam | | |
-| Tue 03/20 | Spring Break | | |
-| Thu 03/22 | Spring Break | | |
-| Tue 03/27 | [IP Routers](slides/lec13_ip_router.pptx)| 4.2 | A3 Out |
-| Thu 03/29 | [Routing Fundamentals](slides/lec14_routing.pptx) | 5.1 | |
-| Tue 04/03 | [Routing Algorithms](slides/lec15_routing_algorithms.pptx) | 5.2, 5.3 | |
-| Thu 04/05 | [IP Addressing and Inter-AS Routing](slides/lec16_interdomain.pptx) | 4.3.3 | |
-| Tue 04/10 | Midterm Recap | | A4 Out |
-| Thu 04/12 | A4 Walkthrough | | A3 Due |
-| Tue 04/17 | [BGP](slides/lec17_bgp.pptx) | 5.4 | |
-| Thu 04/19 | [Link Layer](slides/lec18_link.pptx) | 6.1, 6.3| |
-| Tue 04/24 | [Switched LAN](slides/lec19_LAN.pptx) | 6.4 | |
-| Thu 04/26 | [SDN](slides/lec20_SDN.pptx) | 4.4, 5.5 | |
-| Tue 05/01 | [Security](slides/lec21_security.pptx) | 8.1, 8.3, 8.6 | |
-| Thu 05/03 | [Final Review](slides/Final_review.pptx) | | A4 Due |
-| Tue 05/15 | Final Exam | | 9am-12pm, Shaffer 301 |
+| Mon 01/28 | Introduction | | |
+| Wed 01/30 | Basic | 1.1, 1.3, 1.4 | |
 
 
 ## Textbook
@@ -71,10 +41,8 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- [Assignment 1](assignments/assignment1/README.md): Network measurement.
-- [Assignment 2](assignments/assignment2/README.md): Video Streaming via CDN.
-- [Assignment 3](assignments/assignment3/README.md): DNS load balancing.
-- [Assignment 4](assignments/assignment4/README.md): Custom data plane with P4.
+- Assignment 1: Socket programming.
+
 
 ## Policies
 
