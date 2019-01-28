@@ -9,7 +9,7 @@
 - Location: Shaffer 301
 - Credits: 3 credits
 - Course discussion: [piazza](https://piazza.com/jhu/spring2019/en601414614)
-- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code M6PWYP
+- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code 95KRDN
 - Office hours
   - Monday: 4:15-5:15pm, Malone 235
   - Wednesday: TBD, Malone 235
