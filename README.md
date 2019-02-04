@@ -17,7 +17,7 @@
 
 ## Course Description
 
-Topics covered will include application layer protocols (e.g. HTTP, FTP, SMTP), transport layer protocols (UDP, TCP), network layer protocols (e.g. IP, ICMP), link layer protocols (e.g. Ethernet) and wireless protocols (e.g. IEEE 802.11). The course will also cover routing protocols such as link state and distance vector, multicast routing, and path vector protocols (e.g. BGP). The class will examine security issues such as firewalls and denial of service attacks. We will also study DNS, NAT, Web caching and CDNs, peer to peer, and protocol tunneling. Finally, we will explore security protocols (e.g. TLS, SSH, IPsec), as well as some basic cryptography necessary to understand these. Grading will be based on hands-on programming assignments, homeworks and two exams. 
+Topics covered will include application layer protocols (e.g. HTTP, FTP, SMTP), transport layer protocols (UDP, TCP), network layer protocols (e.g. IP, ICMP), link layer protocols (e.g. Ethernet) and wireless protocols (e.g. IEEE 802.11). The course will also cover routing protocols such as link state and distance vector, multicast routing, and path vector protocols (e.g. BGP). The class will examine security issues such as firewalls and denial of service attacks. We will also study DNS, NAT, Web caching and CDNs, peer to peer, and protocol tunneling. Finally, we will explore security protocols (e.g. TLS, SSH, IPsec), as well as some basic cryptography necessary to understand these. Grading will be based on hands-on programming assignments, homeworks and two exams.
 
 ## Prerequisites
 
@@ -25,6 +25,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Sunday, February 3: Assignment 1 is out.
 - Monday, January 28: First day of class.
 
 ## Course Syllabus
@@ -32,7 +33,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
 | Mon 01/28 | [Introduction](slides/lec01_introduction.pptx) | | |
-| Wed 01/30 | Basic | 1.1, 1.3, 1.4 | |
+| Wed 01/30 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3, 1.4 | |
+| Mon 02/04 | Protocol Layering | 1.5 | A1 Out |
 
 
 ## Textbook
@@ -41,7 +43,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- Assignment 1: Socket programming.
+- [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
 
 
 ## Policies
@@ -61,4 +63,3 @@ This course strictly enforces the university and department policies on academic
 - Programming assignments: 40%
 - Midterm exam: 25%
 - Final exam: 30%
-
