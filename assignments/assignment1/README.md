@@ -201,17 +201,16 @@ Finally, create a visualization of your custom topology (using circles to denote
 <a name="submission-instr"></a>
 ## Submission Instructions
 
-Due: 11:59pm Friday on Feb. 16 
+Due: 11:59pm Friday on Feb. 15 
 
 Group Size: 2
 
 You must submit:
-* Submit `*.zip` compressed file.
 * The source code for `iPerfer`: all source files for `iPerfer` should be in a folder called `iPerfer`.
 * Your measurement results and answers to the questions from Part 3: all results and a text file called `answers.txt` should be in a folder called `measurements`.
 * Your custom network topology code and its visualization (`<uniqname>_topology.py` and `<uniqname>_topology.png`).
 
-All of the files above must be present as a single compressed file in Gradescope.
+All of the files above must be present as a single `*.zip` compressed file in Gradescope.
 ## Acknowledgements
 This programming assignment is based on Mosharaf Chowdhury's Assignment 1 from UMich EECS 489: Computer Networks.
 
