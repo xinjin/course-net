@@ -2,7 +2,7 @@
 
 ## Overview
 
-`iPerf` is a common tool used to measure network bandwidth. You will write your own version of this tool in Python3 using sockets. You will then use your tools to measure the performance of virtual networks in Mininet and explain how link characteristics and multiplexing impact performance.
+`iPerf` is a common tool used to measure network bandwidth. You will write your own version of this tool in Python2 using sockets. You will then use your tools to measure the performance of virtual networks in Mininet and explain how link characteristics and multiplexing impact performance.
 
 * [Part 1](#part1): Write `iPerfer`
 * [Part 2](#part2): Mininet Tutorial
@@ -31,7 +31,7 @@ When operating in client mode, `iPerfer` will send TCP packets to a specific hos
 
 To operate `iPerfer` in server mode, it should be invoked as follows:
 
-`./iPerfer --mode s --port <listen_port>`
+`./iPerfer.py --mode s --port <listen_port>`
 
 * `--mode s` indicates this is the `iPerfer` server which should consume data
 * `listen_port` is the port on which the host is waiting to consume data; the port should be in the range 1024 ≤ listen port ≤ 65535
@@ -63,7 +63,7 @@ The `iPerfer` server should shut down after it handles one connection from a cli
 
 To operate `iPerfer` in client mode, it should be invoked as follows:
 
-`./iPerfer --mode c --host <server_hostname> --port <server_port> --time <time>`
+`./iPerfer.py --mode c --host <server_hostname> --port <server_port> --time <time>`
 
 * `--mode c` indicates this is the `iPerfer` client which should generate data
 * `--host <server_hostname>` is the hostname or IP address of the `iPerfer` server which will consume data
@@ -206,7 +206,7 @@ Due: 11:59pm Friday on Feb. 16
 Group Size: 2
 
 You must submit:
-
+* Submit `*.zip` compressed file.
 * The source code for `iPerfer`: all source files for `iPerfer` should be in a folder called `iPerfer`.
 * Your measurement results and answers to the questions from Part 3: all results and a text file called `answers.txt` should be in a folder called `measurements`.
 * Your custom network topology code and its visualization (`<uniqname>_topology.py` and `<uniqname>_topology.png`).
