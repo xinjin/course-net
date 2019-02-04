@@ -203,6 +203,8 @@ Finally, create a visualization of your custom topology (using circles to denote
 
 Due: 11:59pm Friday on Feb. 16 
 
+Group Size: 2
+
 You must submit:
 
 * The source code for `iPerfer`: all source files for `iPerfer` should be in a folder called `iPerfer`.
