@@ -4,16 +4,16 @@
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
 - Teaching assistants: Zhihao Bai, Hang Zhu
-- Course assistants: TBD
+- Course assistants: Yixiao Luo, Rishabh Singh
 - Lecture time: Monday and Wednesday, 3:00-4:15pm
 - Location: Shaffer 301
 - Credits: 3 credits
 - Course discussion: [piazza](https://piazza.com/jhu/spring2019/en601414614)
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code 95KRDN
 - Office hours
-  - Monday: 4:15-5:15pm, Malone 235
-  - Wednesday: TBD, Malone 235
-  - Friday: TBD, Malone 235
+  - Monday: 4:15-5:15pm, Malone 235, Xin Jin
+  - Wednesday: 4:15-5:15pm, Malone 235, Hang Zhu
+  - Friday: 4:15-5:15pm, Malone 235, Zhihao Bai
 
 ## Course Description
 
@@ -25,8 +25,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- Sunday, February 3: Assignment 1 is out.
-- Monday, January 28: First day of class.
+- Sunday, February 3: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
+- Monday, January 28: First day of class. Join [piazza](https://piazza.com/jhu/spring2019/en601414614).
 
 ## Course Syllabus
 
