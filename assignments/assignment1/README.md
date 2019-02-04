@@ -23,7 +23,7 @@ After completing this programming assignment, students should be able to:
 
 For the first part of the assignment you will write your own version of `iPerf` to measure network bandwidth. Your tool, called `iPerfer`, will send and receive TCP packets between a pair of hosts using sockets.
 
-**Note**: A good resource and a starting point to learn about socket programming is [Socket Programming in Python](https://realpython.com/python-sockets/).
+**Note**: A good resource and a starting point to learn about socket programming is [Socket Programming HOWTO](https://docs.python.org/2/howto/sockets.html).
 
 When operating in client mode, `iPerfer` will send TCP packets to a specific host for a specified time window and track how much data was sent during that time frame; it will calculate and display the bandwidth based on how much data was sent in the elapsed time. When operating in server mode, `iPerfer` will receive TCP packets and track how much data was received during the lifetime of a connection; it will calculate and display the bandwidth based on how much data was received and how much time elapsed during the connection.
 
