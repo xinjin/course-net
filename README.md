@@ -36,7 +36,9 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 01/30 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3, 1.4 | |
 | Mon 02/04 | [Protocol Layering](slides/lec03_layering.pptx) | 1.5 | A1 Out |
 | Wed 02/06 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
-| Mon 02/11 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | A2 Out |
+| Mon 02/11 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | |
+| Wed 02/13 | [Exercise and Lab](slides/lab01.pptx) | | A1 Due |
+| Mon 02/18 | Transport Layer | 3.1, 3.2, 3.3, 3.4 | |
 
 
 ## Textbook
