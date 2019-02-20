@@ -25,6 +25,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Wednesday, February 20: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
+- Friday, February 15: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
 - Sunday, February 3: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
 - Monday, January 28: First day of class. Join [piazza](https://piazza.com/jhu/spring2019/en601414614).
 
@@ -39,11 +41,11 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 02/11 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | |
 | Wed 02/13 | [Exercise and Lab](slides/lab01.pptx) | | A1 Due |
 | Mon 02/18 | [Transport Layer](slides/lec06_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
-| Wed 02/20 | TCP Basics | 3.5 | |
+| Wed 02/20 | TCP Basics | 3.5 | A2 Out |
 | Mon 02/25 | Flow and Congestion Control | 3.6 | |
 | Wed 02/27 | More Congestion Control | 3.7 | |
 | Mon 03/04 | Network Layer and IP | 4.1, 4.3 | |
-| Wed 03/26 | IP Routers| 4.2 | |
+| Wed 03/06 | IP Routers| 4.2 | A2 Due |
 | Mon 03/11 | Midterm Review | | |
 | Wed 03/13 | Midterm Exam | | |
 | Tue 03/18 | Spring Break | | |
@@ -57,6 +59,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 ## Programming Assignments
 
 - [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
+- [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
 
 
 ## Policies
