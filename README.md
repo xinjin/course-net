@@ -41,11 +41,11 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 02/11 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | |
 | Wed 02/13 | [Exercise and Lab](slides/lab01.pptx) | | A1 Due |
 | Mon 02/18 | [Transport Layer](slides/lec06_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
-| Wed 02/20 | TCP Basics | 3.5 | A2 Out |
-| Mon 02/25 | Flow and Congestion Control | 3.6 | |
-| Wed 02/27 | More Congestion Control | 3.7 | |
-| Mon 03/04 | Network Layer and IP | 4.1, 4.3 | |
-| Wed 03/06 | IP Routers| 4.2 | A2 Due |
+| Wed 02/20 | School Closed | | A2 Out |
+| Mon 02/25 | [TCP Basics](slides/lec07_tcp.pptx) | 3.5 | |
+| Wed 02/27 | Flow and Congestion Control | 3.6 | |
+| Mon 03/04 | More Congestion Control | 3.7 | |
+| Wed 03/06 | Network Layer and IP | 4.1, 4.3 | A2 Due |
 | Mon 03/11 | Midterm Review | | |
 | Wed 03/13 | Midterm Exam | | |
 | Tue 03/18 | Spring Break | | |
