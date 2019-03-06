@@ -25,6 +25,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Friday, March 8: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
 - Wednesday, February 20: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
 - Friday, February 15: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
 - Sunday, February 3: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
@@ -43,10 +44,10 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 02/18 | [Transport Layer](slides/lec06_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
 | Wed 02/20 | School Closed | | A2 Out |
 | Mon 02/25 | [TCP Basics](slides/lec07_tcp.pptx) | 3.5 | |
-| Wed 02/27 | Flow and Congestion Control | 3.6 | |
-| Mon 03/04 | More Congestion Control | 3.7 | |
-| Wed 03/06 | Network Layer and IP | 4.1, 4.3 | A2 Due |
-| Mon 03/11 | Midterm Review | | |
+| Wed 02/27 | [Flow and Congestion Control](slides/lec08_flow_congestion.pptx) | 3.6 | |
+| Mon 03/04 | [More Congestion Control](slides/lec09_congestion.pptx) | 3.7 | |
+| Wed 03/06 | [Network Layer and IP](slides/lec10_ip.pptx) | 4.1, 4.3 | A2 Due |
+| Mon 03/11 | [Midterm Review](slides/Midterm_review.pptx) | | |
 | Wed 03/13 | Midterm Exam | | |
 | Tue 03/18 | Spring Break | | |
 | Thu 03/20 | Spring Break | | |
