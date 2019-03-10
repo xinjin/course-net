@@ -49,9 +49,21 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 03/06 | [Network Layer and IP](slides/lec10_ip.pptx) | 4.1, 4.3 | A2 Due |
 | Mon 03/11 | [Midterm Review](slides/Midterm_review.pptx) | | |
 | Wed 03/13 | Midterm Exam | | |
-| Tue 03/18 | Spring Break | | |
-| Thu 03/20 | Spring Break | | |
-
+| Mon 03/18 | Spring Break | | |
+| Wed 03/20 | Spring Break | | |
+| Mon 03/25 | IP Routers| 4.2 | |
+| Wed 03/27 | Routing Fundamentals | 5.1 | |
+| Mon 04/01 | Routing Algorithms | 5.2, 5.3 | A3 Out |
+| Wed 04/03 | IP Addressing and Inter-AS Routing | 4.3.3 | |
+| Mon 04/08 | BGP | | |
+| Wed 04/10 | Link Layer | | A3 Due |
+| Mon 04/15 | Switched LAN | 5.4 | |
+| Wed 04/17 | Programmable Networks | 6.1, 6.3| A4 Out |
+| Mon 04/22 | Big Network Data | 6.4 | |
+| Wed 04/24 | Wireless | 4.4, 5.5 | |
+| Mon 05/29 | Security | 8.1, 8.3, 8.6 | |
+| Wed 05/01 | Final Review | | A4 Due |
+| Wed 05/08 | Final Exam | | 6pm-9pm, Shaffer 301 |
 
 ## Textbook
 
