@@ -25,6 +25,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Tuesday, March 12: Please fill the [midterm survey](https://goo.gl/forms/zLQX7SYm7BzK0hGC3).
 - Friday, March 8: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
 - Wednesday, February 20: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
 - Friday, February 15: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
