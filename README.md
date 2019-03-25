@@ -52,7 +52,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 03/13 | Midterm Exam | | |
 | Mon 03/18 | Spring Break | | |
 | Wed 03/20 | Spring Break | | |
-| Mon 03/25 | IP Routers| 4.2 | |
+| Mon 03/25 | [IP Routers](slides/lec11_ip_router.pptx)| 4.2 | |
 | Wed 03/27 | Routing Fundamentals | 5.1 | |
 | Mon 04/01 | Routing Algorithms | 5.2, 5.3 | A3 Out |
 | Wed 04/03 | IP Addressing and Inter-AS Routing | 4.3.3 | |
