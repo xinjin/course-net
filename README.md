@@ -53,14 +53,14 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 03/18 | Spring Break | | |
 | Wed 03/20 | Spring Break | | |
 | Mon 03/25 | [IP Routers](slides/lec11_ip_router.pptx)| 4.2 | |
-| Wed 03/27 | Routing Fundamentals | 5.1 | |
-| Mon 04/01 | Routing Algorithms | 5.2, 5.3 | A3 Out |
-| Wed 04/03 | IP Addressing and Inter-AS Routing | 4.3.3 | |
-| Mon 04/08 | BGP | | |
-| Wed 04/10 | Link Layer | | A3 Due |
-| Mon 04/15 | Switched LAN | 5.4 | |
-| Wed 04/17 | Programmable Networks | 6.1, 6.3| A4 Out |
-| Mon 04/22 | Big Network Data | 6.4 | |
+| Wed 03/27 | [Routing Fundamentals](slides/lec12_routing.pptx) | 5.1 | |
+| Mon 04/01 | [Routing Algorithms](slides/lec13_routing_algorithms.pptx) | 5.2, 5.3 | A3 Out |
+| Wed 04/03 | Midterm Recap | 4.3.3 | |
+| Mon 04/08 | [IP Addressing and Inter-AS Routing](slides/lec14_interdomain.pptx) | | |
+| Wed 04/10 | [BGP](slides/lec15_bgp.pptx) | | A3 Due |
+| Mon 04/15 | Link Layer | 5.4 | |
+| Wed 04/17 | Switched LAN | 6.1, 6.3| A4 Out |
+| Mon 04/22 | Programmable Networks | 6.4 | |
 | Wed 04/24 | Wireless | 4.4, 5.5 | |
 | Mon 05/29 | Security | 8.1, 8.3, 8.6 | |
 | Wed 05/01 | Final Review | | A4 Due |
@@ -74,6 +74,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 - [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
 - [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
+- [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3): Intra-domain routing algorithms.
 
 
 ## Policies
