@@ -25,6 +25,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Monday, April 1: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is out.
 - Tuesday, March 12: Please fill the [midterm survey](https://goo.gl/forms/zLQX7SYm7BzK0hGC3).
 - Friday, March 8: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
 - Wednesday, February 20: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
@@ -57,8 +58,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 04/01 | [Routing Algorithms](slides/lec13_routing_algorithms.pptx) | 5.2, 5.3 | A3 Out |
 | Wed 04/03 | Midterm Recap | 4.3.3 | |
 | Mon 04/08 | [IP Addressing and Inter-AS Routing](slides/lec14_interdomain.pptx) | | |
-| Wed 04/10 | [BGP](slides/lec15_bgp.pptx) | | A3 Due |
-| Mon 04/15 | Link Layer | 5.4 | |
+| Wed 04/10 | [BGP](slides/lec15_bgp.pptx) | | |
+| Mon 04/15 | Link Layer | 5.4 | A3 Due |
 | Wed 04/17 | Switched LAN | 6.1, 6.3| A4 Out |
 | Mon 04/22 | Programmable Networks | 6.4 | |
 | Wed 04/24 | Wireless | 4.4, 5.5 | |
