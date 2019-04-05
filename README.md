@@ -37,35 +37,35 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
-| Mon 01/28 | [Introduction](slides/lec01_introduction.pptx) | | |
-| Wed 01/30 | [Basic](slides/lec02_basic.pptx) | 1.1, 1.3, 1.4 | |
-| Mon 02/04 | [Protocol Layering](slides/lec03_layering.pptx) | 1.5 | A1 Out |
-| Wed 02/06 | [HTTP and the Web](slides/lec04_web.pptx) | 2.2 | |
-| Mon 02/11 | [CDN and DNS](slides/lec05_cdn.pptx) | 2.4 | |
-| Wed 02/13 | [Exercise and Lab](slides/lab01.pptx) | | A1 Due |
-| Mon 02/18 | [Transport Layer](slides/lec06_transport.pptx) | 3.1, 3.2, 3.3, 3.4 | |
+| Mon 01/28 | Introduction ([ppt](slides/lec01_introduction.pptx), [pdf](slides/lec01_introduction.pdf)) | | |
+| Wed 01/30 | Basic ([ppt](slides/lec02_basic.pptx), [pdf](slides/lec02_basic.pdf)) | 1.1, 1.3, 1.4 | |
+| Mon 02/04 | Protocol Layering ([ppt](slides/lec03_layering.pptx), [pdf](slides/lec03_layering.pdf)) | 1.5 | A1 Out |
+| Wed 02/06 | HTTP and the Web ([ppt](slides/lec04_web.pptx), [pdf](slides/lec04_web.pdf)) | 2.2 | |
+| Mon 02/11 | CDN and DNS ([ppt](slides/lec05_cdn.pptx), [pdf](slides/lec05_cdn.pdf)) | 2.4 | |
+| Wed 02/13 | Exercise and Lab ([ppt](slides/lab01.pptx), [pdf](slides/lab01.pdf)) | | A1 Due |
+| Mon 02/18 | Transport Layer ([ppt](slides/lec06_transport.pptx), [pdf](slides/lec06_transport.pdf)) | 3.1, 3.2, 3.3, 3.4 | |
 | Wed 02/20 | School Closed | | A2 Out |
-| Mon 02/25 | [TCP Basics](slides/lec07_tcp.pptx) | 3.5 | |
-| Wed 02/27 | [Flow and Congestion Control](slides/lec08_flow_congestion.pptx) | 3.6 | |
-| Mon 03/04 | [More Congestion Control](slides/lec09_congestion.pptx) | 3.7 | |
-| Wed 03/06 | [Network Layer and IP](slides/lec10_ip.pptx) | 4.1, 4.3 | A2 Due |
-| Mon 03/11 | [Midterm Review](slides/Midterm_review.pptx) | | |
+| Mon 02/25 | TCP Basics ([ppt](slides/lec07_tcp.pptx), [pdf](slides/lec07_tcp.pdf)) | 3.5 | |
+| Wed 02/27 | Flow and Congestion Control ([ppt](slides/lec08_flow_congestion.pptx), [pdf](slides/lec08_flow_congestion.pdf)) | 3.6 | |
+| Mon 03/04 | More Congestion Control ([ppt](slides/lec09_congestion.pptx), [pdf](slides/lec09_congestion.pdf)) | 3.7 | |
+| Wed 03/06 | Network Layer and IP ([ppt](slides/lec10_ip.pptx), [pdf](slides/lec10_ip.pdf)) | 4.1, 4.3 | A2 Due |
+| Mon 03/11 | Midterm Review ([ppt](slides/Midterm_review.pptx), [pdf](slides/Midterm_review.pdf)) | | |
 | Wed 03/13 | Midterm Exam | | |
 | Mon 03/18 | Spring Break | | |
 | Wed 03/20 | Spring Break | | |
-| Mon 03/25 | [IP Routers](slides/lec11_ip_router.pptx)| 4.2 | |
-| Wed 03/27 | [Routing Fundamentals](slides/lec12_routing.pptx) | 5.1 | |
-| Mon 04/01 | [Routing Algorithms](slides/lec13_routing_algorithms.pptx) | 5.2, 5.3 | A3 Out |
+| Mon 03/25 | IP Routers ([ppt](slides/lec11_ip_router.pptx), [pdf](slides/lec11_ip_router.pdf))| 4.2 | |
+| Wed 03/27 | Routing Fundamentals ([ppt](slides/lec12_routing.pptx), [pdf](slides/lec12_routing.pdf)) | 5.1 | |
+| Mon 04/01 | Routing Algorithms ([ppt](slides/lec13_routing_algorithms.pptx), [pdf](slides/lec13_routing_algorithms.pdf)) | 5.2, 5.3 | A3 Out |
 | Wed 04/03 | Midterm Recap | 4.3.3 | |
-| Mon 04/08 | [IP Addressing and Inter-AS Routing](slides/lec14_interdomain.pptx) | | |
-| Wed 04/10 | [BGP](slides/lec15_bgp.pptx) | | |
+| Mon 04/08 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
+| Wed 04/10 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
 | Mon 04/15 | Link Layer | 5.4 | A3 Due |
 | Wed 04/17 | Switched LAN | 6.1, 6.3| A4 Out |
 | Mon 04/22 | Programmable Networks | 6.4 | |
 | Wed 04/24 | Wireless | 4.4, 5.5 | |
 | Mon 05/29 | Security | 8.1, 8.3, 8.6 | |
 | Wed 05/01 | Final Review | | A4 Due |
-| Wed 05/08 | Final Exam | | 6pm-9pm, Shaffer 301 |
+| Wed 05/08 | Final Exam | | 6pm-7:30pm, Shaffer 301 |
 
 ## Textbook
 
