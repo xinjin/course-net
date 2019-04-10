@@ -59,11 +59,11 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 04/03 | Midterm Recap | 4.3.3 | |
 | Mon 04/08 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
 | Wed 04/10 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
-| Mon 04/15 | Link Layer | 5.4 | A3 Due |
-| Wed 04/17 | Switched LAN | 6.1, 6.3| A4 Out |
-| Mon 04/22 | Programmable Networks | 6.4 | |
-| Wed 04/24 | Wireless | 4.4, 5.5 | |
-| Mon 05/29 | Security | 8.1, 8.3, 8.6 | |
+| Mon 04/15 | Programmable Networks | | A3 Due |
+| Wed 04/17 | Link Layer | 5.4 | A4 Out |
+| Mon 04/22 | Switched LAN | 6.1, 6.3| |
+| Wed 04/24 | Wireless and Security | 4.4, 5.5, 8.1, 8.3, 8.6 | |
+| Mon 04/29 | Misc | 8.1, 8.3, 8.6 | |
 | Wed 05/01 | Final Review | | A4 Due |
 | Wed 05/08 | Final Exam | | 6pm-7:30pm, Shaffer 301 |
 
