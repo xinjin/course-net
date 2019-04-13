@@ -25,6 +25,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Wednesday, April 17: [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4) is out.
+- Monday, April 15: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is due.
 - Monday, April 1: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is out.
 - Tuesday, March 12: Please fill the [midterm survey](https://goo.gl/forms/zLQX7SYm7BzK0hGC3).
 - Friday, March 8: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
@@ -59,9 +61,9 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 04/03 | Midterm Recap | 4.3.3 | |
 | Mon 04/08 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
 | Wed 04/10 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
-| Mon 04/15 | Programmable Networks | | A3 Due |
-| Wed 04/17 | Link Layer | 5.4 | A4 Out |
-| Mon 04/22 | Switched LAN | 6.1, 6.3| |
+| Mon 04/15 | Programmable Networks ([ppt](slides/lec16_programmable_networks.pptx)) | | A3 Due |
+| Wed 04/17 | Link Layer ([ppt](slides/lec17_link.pptx)) | 5.4 | A4 Out |
+| Mon 04/22 | Switched LAN ([ppt](slides/lec18_LAN.pptx)) | 6.1, 6.3| |
 | Wed 04/24 | Wireless and Security | 4.4, 5.5, 8.1, 8.3, 8.6 | |
 | Mon 04/29 | Misc | 8.1, 8.3, 8.6 | |
 | Wed 05/01 | Final Review | | A4 Due |
@@ -76,6 +78,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 - [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
 - [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
 - [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3): Intra-domain routing algorithms.
+- [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4): Programmable networks.
 
 
 ## Policies
