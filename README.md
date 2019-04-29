@@ -25,6 +25,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Wednesday, May 1: [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4) is due.
 - Wednesday, April 17: [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4) is out.
 - Monday, April 15: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is due.
 - Monday, April 1: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is out.
@@ -64,7 +65,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Mon 04/15 | Programmable Networks ([ppt](slides/lec16_programmable.pptx), [pdf](slides/lec16_programmable.pdf)) | [TuringAward'17 Lecture](https://www.youtube.com/watch?v=3LVeEjsn8Ts) | A3 Due |
 | Wed 04/17 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 5.4 | A4 Out |
 | Mon 04/22 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.1, 6.3| |
-| Wed 04/24 | Wireless ([ppt](slides/lec19_wireless.pptx)) and Security ([ppt](slides/lec20_security.pptx)) | 4.4, 5.5, 8.1, 8.3, 8.6 | |
+| Wed 04/24 | Wireless ([ppt](slides/lec19_wireless.pptx), [pdf](slides/lec19_wireless.pdf)) and Security ([ppt](slides/lec20_security.pptx), [pdf](slides/lec20_security.pdf)) | 4.4, 5.5, 8.1, 8.3, 8.6 | |
 | Mon 04/29 | Misc ([ppt](slides/lec21_misc.pptx)) | | |
 | Wed 05/01 | Final Review | | A4 Due |
 | Wed 05/08 | Final Exam | | 6pm-7:30pm, Shaffer 301 |
