@@ -66,8 +66,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 | Wed 04/17 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 5.4 | A4 Out |
 | Mon 04/22 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.1, 6.3| |
 | Wed 04/24 | Wireless ([ppt](slides/lec19_wireless.pptx), [pdf](slides/lec19_wireless.pdf)) and Security ([ppt](slides/lec20_security.pptx), [pdf](slides/lec20_security.pdf)) | 4.4, 5.5, 8.1, 8.3, 8.6 | |
-| Mon 04/29 | Misc ([ppt](slides/lec21_misc.pptx)) | | |
-| Wed 05/01 | Final Review ([ppt](slides/Final_review.pptx)) | | A4 Due |
+| Mon 04/29 | Misc ([ppt](slides/lec21_misc.pptx), [pdf](slides/lec21_misc.pdf)) | | |
+| Wed 05/01 | Final Review ([ppt](slides/Final_review.pptx), [pdf](slides/Final_review.pdf)) | | A4 Due |
 | Wed 05/08 | Final Exam | | 6pm-7:30pm, Shaffer 301 |
 
 ## Textbook
