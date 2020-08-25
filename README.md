@@ -3,17 +3,16 @@
 ## Logistics
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
-- Teaching assistants: Zhihao Bai, Hang Zhu
-- Course assistants: Yixiao Luo, Rishabh Singh
-- Lecture time: Monday and Wednesday, 3:00-4:15pm
-- Location: Shaffer 301
+- Teaching assistants: Zhihao Bai
+- Course assistants: TBD
+- Lecture time: Tuesday and Thursday, 1:30-2:45pm
+- Location: Zoom
 - Credits: 3 credits
-- Course discussion: [piazza](https://piazza.com/jhu/spring2019/en601414614)
-- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code 95KRDN
+- Course discussion: [piazza](TBD)
+- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code TBD
 - Office hours
-  - Monday: 4:15-5:15pm, Malone 235, Xin Jin
-  - Wednesday: 4:15-5:15pm, Malone 235, Hang Zhu
-  - Friday: 4:15-5:15pm, Malone 235, Zhihao Bai
+  - Tuesday: 2:45-3:45pm, Zoom, Xin Jin
+  - TBD: TBD, Zoom, Zhihao Bai
 
 ## Course Description
 
@@ -25,16 +24,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- Wednesday, May 1: [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4) is due.
-- Wednesday, April 17: [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4) is out.
-- Monday, April 15: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is due.
-- Monday, April 1: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is out.
-- Tuesday, March 12: Please fill the [midterm survey](https://goo.gl/forms/zLQX7SYm7BzK0hGC3).
-- Friday, March 8: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
-- Wednesday, February 20: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
-- Friday, February 15: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
-- Sunday, February 3: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
-- Monday, January 28: First day of class. Join [piazza](https://piazza.com/jhu/spring2019/en601414614).
+- Monday, September 1: First day of class. Join [piazza](TBD).
 
 ## Course Syllabus
 
