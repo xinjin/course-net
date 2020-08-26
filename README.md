@@ -6,10 +6,10 @@
 - Teaching assistants: Zhihao Bai
 - Course assistants: TBD
 - Lecture time: Tuesday and Thursday, 1:30-2:45pm
-- Location: Zoom
+- Location: Zoom (please find the Zoom link on Piazza)
 - Credits: 3 credits
-- Course discussion: [piazza](TBD)
-- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code TBD
+- Course discussion: [Piazza](https://piazza.com/jhu/fall2020/en601414614)
+- Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code 94BWPW
 - Office hours
   - Tuesday: 2:45-3:45pm, Zoom, Xin Jin
   - TBD: TBD, Zoom, Zhihao Bai
@@ -24,7 +24,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
-- Monday, September 1: First day of class. Join [piazza](TBD).
+- Monday, September 1: First day of class. Join [Piazza](https://piazza.com/jhu/fall2020/en601414614).
 
 ## Course Syllabus
 
