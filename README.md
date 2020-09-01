@@ -4,7 +4,7 @@
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
 - Teaching assistants: Zhihao Bai
-- Course assistants: TBD
+- Course assistants: Ziming Chen, Kun Liu
 - Lecture time: Tuesday and Thursday, 1:30-2:45pm
 - Location: Zoom (please find the Zoom link on Piazza)
 - Credits: 3 credits
@@ -12,7 +12,9 @@
 - Homework submission: [Gradescope](https://www.gradescope.com/), join the course with entry code 94BWPW
 - Office hours
   - Tuesday: 2:45-3:45pm, Zoom, Xin Jin
-  - TBD: TBD, Zoom, Zhihao Bai
+  - Thursday: 2:45-3:45pm, Zoom, Zhihao Bai
+  - TBD: TBD, Zoom, Ziming Chen
+  - TBD: TBD, Zoom, Kun Liu
 
 ## Course Description
 
@@ -27,6 +29,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 - Monday, September 1: First day of class. Join [Piazza](https://piazza.com/jhu/fall2020/en601414614).
 
 ## Course Syllabus
+
+The syllabus and slides will be updated along the way during the semester.
 
 | Date    | Topics  | Readings | Notes   |
 | :------ | :------ | :------  | :------ |
@@ -87,7 +91,7 @@ This course strictly enforces the university and department policies on academic
 
 ## Grading
 
-- Class participation: 5%
+- Class participation: 20%
 - Programming assignments: 40%
-- Midterm exam: 25%
-- Final exam: 30%
+- Midterm exam: 20%
+- Final exam: 20%
