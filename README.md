@@ -4,7 +4,7 @@
 
 - Instructor: [Xin Jin](http://www.cs.jhu.edu/~xinjin/)
 - Teaching assistants: Zhihao Bai
-- Course assistants: Ziming Chen, Kun Liu
+- Course assistants: Ziming Chen, Kun (Ryan) Liu
 - Lecture time: Tuesday and Thursday, 1:30-2:45pm
 - Location: Zoom (please find the Zoom link on Piazza)
 - Credits: 3 credits
@@ -72,10 +72,10 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
-- [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
-- [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3): Intra-domain routing algorithms.
-- [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4): Programmable networks.
+- Assignment 1: Socket programming.
+- Assignment 2: Reliable transport.
+- Assignment 3: Intra-domain routing algorithms.
+- Assignment 4: Programmable networks.
 
 
 ## Policies
