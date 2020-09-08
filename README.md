@@ -26,6 +26,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Monday, September 7: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
 - Monday, September 1: First day of class. Join [Piazza](https://piazza.com/jhu/fall2020/en601414614).
 
 ## Course Syllabus
@@ -72,7 +73,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 ## Programming Assignments
 
-- Assignment 1: Socket programming.
+- [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
 - Assignment 2: Reliable transport.
 - Assignment 3: Intra-domain routing algorithms.
 - Assignment 4: Programmable networks.
