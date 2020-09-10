@@ -13,8 +13,8 @@
 - Office hours
   - Tuesday: 2:45-3:45pm, Zoom, Xin Jin
   - Thursday: 2:45-3:45pm, Zoom, Zhihao Bai
-  - TBD: TBD, Zoom, Ziming Chen
-  - TBD: TBD, Zoom, Kun Liu
+  - Thursday: 8:00-9:00pm, Zoom, Ziming Chen
+  - Friday: 9:00-10:00am, Zoom, Kun Liu 
 
 ## Course Description
 
