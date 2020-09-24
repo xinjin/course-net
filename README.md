@@ -26,6 +26,8 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Thursday, September 24: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
+- Sunday, September 20: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
 - Monday, September 7: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
 - Monday, September 1: First day of class. Join [Piazza](https://piazza.com/jhu/fall2020/en601414614).
 
@@ -42,29 +44,28 @@ The syllabus and slides will be updated along the way during the semester.
 | Tue 09/15 | CDN and DNS ([ppt](slides/lec05_cdn.pptx), [pdf](slides/lec05_cdn.pdf)) | 2.4 | |
 | Thu 09/17 | Exercise and Lab ([ppt](slides/lab01.pptx), [pdf](slides/lab01.pdf)) | | A1 Due |
 | Tue 09/22 | Transport Layer ([ppt](slides/lec06_transport.pptx), [pdf](slides/lec06_transport.pdf)) | 3.1, 3.2, 3.3, 3.4 | |
-| Thu 09/24 | TBD | | A2 Out |
-| Tue 09/29 | TCP Basics ([ppt](slides/lec07_tcp.pptx), [pdf](slides/lec07_tcp.pdf)) | 3.5 | |
-| Thu 10/01 | Flow and Congestion Control ([ppt](slides/lec08_flow_congestion.pptx), [pdf](slides/lec08_flow_congestion.pdf)) | 3.6 | |
-| Tue 10/06 | More Congestion Control ([ppt](slides/lec09_congestion.pptx), [pdf](slides/lec09_congestion.pdf)) | 3.7 | |
-| Thu 10/08 | Network Layer and IP ([ppt](slides/lec10_ip.pptx), [pdf](slides/lec10_ip.pdf)) | 4.1, 4.3 | A2 Due |
+| Thu 09/24 | TCP Basics ([ppt](slides/lec07_tcp.pptx), [pdf](slides/lec07_tcp.pdf)) | 3.5 | A2 Out |
+| Tue 09/29 | Flow and Congestion Control ([ppt](slides/lec08_flow_congestion.pptx), [pdf](slides/lec08_flow_congestion.pdf)) | 3.6 | |
+| Thu 10/01 | More Congestion Control ([ppt](slides/lec09_congestion.pptx), [pdf](slides/lec09_congestion.pdf)) | 3.7 | |
+| Tue 10/06 | Network Layer and IP ([ppt](slides/lec10_ip.pptx), [pdf](slides/lec10_ip.pdf)) | 4.1, 4.3 | A2 Due |
+| Thu 10/08 | IP Routers ([ppt](slides/lec11_ip_router.pptx), [pdf](slides/lec11_ip_router.pdf))| 4.2 | |
 | Tue 10/13 | Midterm Review ([ppt](slides/Midterm_review.pptx), [pdf](slides/Midterm_review.pdf)) | | |
 | Thu 10/15 | Midterm Exam | | |
-| Tue 10/20 | TBD | | |
-| Thu 10/22 | TBD | | |
-| Tue 10/27 | IP Routers ([ppt](slides/lec11_ip_router.pptx), [pdf](slides/lec11_ip_router.pdf))| 4.2 | |
-| Thu 10/29 | Routing Fundamentals ([ppt](slides/lec12_routing.pptx), [pdf](slides/lec12_routing.pdf)) | 5.1 | |
-| Tue 11/03 | Routing Algorithms ([ppt](slides/lec13_routing_algorithms.pptx), [pdf](slides/lec13_routing_algorithms.pdf)) | 5.2, 5.3 | A3 Out |
-| Thu 11/05 | Midterm Recap | 4.3.3 | |
-| Tue 11/10 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
-| Thu 11/12 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
-| Tue 11/17 | Programmable Networks ([ppt](slides/lec16_programmable.pptx), [pdf](slides/lec16_programmable.pdf)) | [TuringAward'17 Lecture](https://www.youtube.com/watch?v=3LVeEjsn8Ts) | A3 Due |
-| Thu 11/19 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 5.4 | A4 Out |
+| Tue 10/20 | Routing Fundamentals ([ppt](slides/lec12_routing.pptx), [pdf](slides/lec12_routing.pdf)) | 5.1 | |
+| Thu 10/22 | Fall Break | | |
+| Tue 10/27 | Routing Algorithms ([ppt](slides/lec13_routing_algorithms.pptx), [pdf](slides/lec13_routing_algorithms.pdf)) | 5.2, 5.3 | A3 Out |
+| Thu 10/29 | Midterm Recap | 4.3.3 | |
+| Tue 11/03 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
+| Thu 11/05 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
+| Tue 11/10 | Programmable Networks ([ppt](slides/lec16_programmable.pptx), [pdf](slides/lec16_programmable.pdf)) | [TuringAward'17 Lecture](https://www.youtube.com/watch?v=3LVeEjsn8Ts) | A3 Due |
+| Thu 11/12 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 5.4 | A4 Out |
+| Tue 11/17 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.1, 6.3| |
+| Thu 11/19 | Wireless ([ppt](slides/lec19_wireless.pptx), [pdf](slides/lec19_wireless.pdf)) | 7.1, 7.2, 7.3 | |
 | Tue 11/24 | Thanksgiving | | |
 | Thu 11/26 | Thanksgiving | | |
-| Tue 12/01 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.1, 6.3| |
-| Thu 12/03 | Wireless ([ppt](slides/lec19_wireless.pptx), [pdf](slides/lec19_wireless.pdf)) and Security ([ppt](slides/lec20_security.pptx), [pdf](slides/lec20_security.pdf)) | 4.4, 5.5, 8.1, 8.3, 8.6 | |
-| Tue 12/08 | Misc ([ppt](slides/lec21_misc.pptx), [pdf](slides/lec21_misc.pdf)) | | |
-| Thu 12/10 | Final Review ([ppt](slides/Final_review.pptx), [pdf](slides/Final_review.pdf)) | | A4 Due |
+| Tue 12/01 | Security ([ppt](slides/lec20_security.pptx), [pdf](slides/lec20_security.pdf)) | 8.1, 8.3, 8.6 | |
+| Thu 12/03 | Misc ([ppt](slides/lec21_misc.pptx), [pdf](slides/lec21_misc.pdf)) | | |
+| Tue 12/08 | Final Review ([ppt](slides/Final_review.pptx), [pdf](slides/Final_review.pdf)) | | A4 Due |
 | TBD | Final Exam | | |
 
 ## Textbook
@@ -74,7 +75,7 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 ## Programming Assignments
 
 - [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
-- Assignment 2: Reliable transport.
+- [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
 - Assignment 3: Intra-domain routing algorithms.
 - Assignment 4: Programmable networks.
 
