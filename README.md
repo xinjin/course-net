@@ -26,6 +26,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Sunday, October 11: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
 - Thursday, September 24: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
 - Sunday, September 20: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is due.
 - Monday, September 7: [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1) is out.
