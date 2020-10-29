@@ -56,7 +56,7 @@ The syllabus and slides will be updated along the way during the semester.
 | Tue 10/20 | Routing Fundamentals ([ppt](slides/lec12_routing.pptx), [pdf](slides/lec12_routing.pdf)) | 5.1 | |
 | Thu 10/22 | Fall Break | | |
 | Tue 10/27 | Routing Algorithms ([ppt](slides/lec13_routing_algorithms.pptx), [pdf](slides/lec13_routing_algorithms.pdf)) | 5.2, 5.3 | A3 Out |
-| Thu 10/29 | Midterm Recap [ppt](slides/Midterm_recap.pptx), [pdf](slides/Midterm_recap.pdf) | | |
+| Thu 10/29 | Midterm Recap ([ppt](slides/Midterm_recap.pptx), [pdf](slides/Midterm_recap.pdf)) | | |
 | Tue 11/03 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | 4.3.3 | |
 | Thu 11/05 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | 5.4 | |
 | Tue 11/10 | Programmable Networks ([ppt](slides/lec16_programmable.pptx), [pdf](slides/lec16_programmable.pdf)) | [TuringAward'17 Lecture](https://www.youtube.com/watch?v=3LVeEjsn8Ts) | A3 Due |
