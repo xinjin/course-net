@@ -14,7 +14,7 @@
   - Tuesday: 2:45-3:45pm, Zoom, Xin Jin
   - Thursday: 2:45-3:45pm, Zoom, Zhihao Bai
   - Thursday: 8:00-9:00pm, Zoom, Ziming Chen
-  - Friday: 9:00-10:00am, Zoom, Kun Liu 
+  - Friday: 9:00-10:00am, Zoom, Kun Liu
 
 ## Course Description
 
@@ -56,12 +56,12 @@ The syllabus and slides will be updated along the way during the semester.
 | Tue 10/20 | Routing Fundamentals ([ppt](slides/lec12_routing.pptx), [pdf](slides/lec12_routing.pdf)) | 5.1 | |
 | Thu 10/22 | Fall Break | | |
 | Tue 10/27 | Routing Algorithms ([ppt](slides/lec13_routing_algorithms.pptx), [pdf](slides/lec13_routing_algorithms.pdf)) | 5.2, 5.3 | A3 Out |
-| Thu 10/29 | Midterm Recap | 4.3.3 | |
-| Tue 11/03 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | | |
-| Thu 11/05 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | | |
+| Thu 10/29 | Midterm Recap [ppt](slides/Midterm_recap.pptx), [pdf](slides/Midterm_recap.pdf) | | |
+| Tue 11/03 | IP Addressing and Inter-AS Routing ([ppt](slides/lec14_interdomain.pptx), [pdf](slides/lec14_interdomain.pdf)) | 4.3.3 | |
+| Thu 11/05 | BGP ([ppt](slides/lec15_bgp.pptx), [pdf](slides/lec15_bgp.pdf)) | 5.4 | |
 | Tue 11/10 | Programmable Networks ([ppt](slides/lec16_programmable.pptx), [pdf](slides/lec16_programmable.pdf)) | [TuringAward'17 Lecture](https://www.youtube.com/watch?v=3LVeEjsn8Ts) | A3 Due |
-| Thu 11/12 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 5.4 | A4 Out |
-| Tue 11/17 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.1, 6.3| |
+| Thu 11/12 | Link Layer ([ppt](slides/lec17_link.pptx), [pdf](slides/lec17_link.pdf)) | 6.1, 6.3 | A4 Out |
+| Tue 11/17 | Switched LAN ([ppt](slides/lec18_LAN.pptx), [pdf](slides/lec18_LAN.pdf)) | 6.4 | |
 | Thu 11/19 | Wireless ([ppt](slides/lec19_wireless.pptx), [pdf](slides/lec19_wireless.pdf)) | 7.1, 7.2, 7.3 | |
 | Tue 11/24 | Thanksgiving | | |
 | Thu 11/26 | Thanksgiving | | |
