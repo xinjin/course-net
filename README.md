@@ -26,6 +26,7 @@ EN.601.220 and EN.601.229 or permission. Students can only receive credits for o
 
 ## Announcements
 
+- Tuesday, November 9: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is due.
 - Tuesday, October 27: [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3) is out.
 - Sunday, October 11: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is due.
 - Thursday, September 24: [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2) is out.
@@ -78,8 +79,8 @@ Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith 
 
 - [Assignment 1](https://github.com/xinjin/course-net-assignment/tree/master/assignment1): Socket programming.
 - [Assignment 2](https://github.com/xinjin/course-net-assignment/tree/master/assignment2): Reliable transport.
-- Assignment 3: Intra-domain routing algorithms.
-- Assignment 4: Programmable networks.
+- [Assignment 3](https://github.com/xinjin/course-net-assignment/tree/master/assignment3): Intra-domain routing algorithms.
+- [Assignment 4](https://github.com/xinjin/course-net-assignment/tree/master/assignment4): Programmable networks.
 
 
 ## Policies
