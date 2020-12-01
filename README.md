@@ -70,7 +70,7 @@ The syllabus and slides will be updated along the way during the semester.
 | Tue 12/01 | Security ([ppt](slides/lec20_security.pptx), [pdf](slides/lec20_security.pdf)) | 8.1, 8.3, 8.6 | |
 | Thu 12/03 | Misc ([ppt](slides/lec21_misc.pptx), [pdf](slides/lec21_misc.pdf)) | | |
 | Tue 12/08 | Final Review ([ppt](slides/Final_review.pptx), [pdf](slides/Final_review.pdf)) | | A4 Due |
-| TBD | Final Exam | | |
+| Wed 12/16 | Final Exam at 6-7:30pm ([official schedule](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2020/09/Fall-2020-Final-Exam-Schedule-FINAL-9.30.pdf)) | | |
 
 ## Textbook
 
